@@ -21,3 +21,4 @@
 2. Excel - do básico ao intermediário, Santander open academy
 ---
 ## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/matheus-souza-76a132398/)

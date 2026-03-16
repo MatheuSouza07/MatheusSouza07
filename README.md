@@ -1,6 +1,6 @@
 # MatheusSouza
-###Formações em andamento
-1. Estudante de Técnico em Marketing na Etec classe descentralizada Verdescola
+##Formações em andamento
+1. 👨‍💻Estudante de Técnico em Marketing na Etec classe descentralizada Verdescola
 - Começando o terceiro ano
 
 2. Estudante de Técnico em Desenvolvimento de Sistemas em EaDTEC

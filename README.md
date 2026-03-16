@@ -4,7 +4,6 @@
   - Começando o terceiro ano
 
 2. 👨‍💻Estudante de Técnico em Desenvolvimento de Sistemas na EaDTEC
-
 ---
 ## Experiências
 1. 🖥️Participando da criação da empresa de hardwares Nowizion
@@ -12,6 +11,10 @@
 
 2. 🗳️Participação da divulgação do Plebiscito 2025
 
+3. 📅Organização de eventos escolares 
+
+4. 📈Colaboração na criação de planos de negócios 
+---
 ## Cursos
 1. Windows, Word, Excel, Power Point, promovido pela ETI informática.
 

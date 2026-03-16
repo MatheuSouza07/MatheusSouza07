@@ -23,4 +23,4 @@
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/matheus-souza-76a132398/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:eusmath312@gmailcom)
+[![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:eusmath312@gmail.com)
